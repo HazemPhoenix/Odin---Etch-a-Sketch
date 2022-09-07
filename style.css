@@ -1,0 +1,14 @@
+html {
+  box-sizing: border-box;
+  margin: 0;
+}
+#container {
+  height: 500px;
+  width: 500px;
+  display: grid;
+}
+
+#btn:hover {
+  background-color: rgb(95, 94, 94);
+  cursor: pointer;
+}
